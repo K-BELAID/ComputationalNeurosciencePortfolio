@@ -7,3 +7,4 @@
 - Add a second neuron to make a small network
 - Explore effect of varying synaptic weights
 
+,
